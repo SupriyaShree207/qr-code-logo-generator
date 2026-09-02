@@ -2,6 +2,7 @@
 
 A simple Python script that generates a scannable QR code with a logo placed in the center. Uses high error correction so the code still scans correctly even with part of it covered by the logo.
 
+![Sample QR code](sample_output.png)
 ## Requirements
 
 - Python 3.7+
